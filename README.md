@@ -28,7 +28,6 @@ Some of our recent work:
 - **AstraPay** — Multi-platform fintech application
 - **Nova LMS** — Adaptive e-learning platform
 - **Orion CMS** — Custom CMS for a media platform
-- [More case studies →](https://nuastra.dev/#portfolio) *(if you have a website)*
 
 ---
 
@@ -36,15 +35,8 @@ Some of our recent work:
 
 Looking for a technical partner or an extra boost to your team? We're here to help!
 
-📩 Contact us: [team@nuastra.dev](mailto:team@nuastra.dev)  
-🌍 Website: [nuastra.dev](https://nuastra.dev) *(if you have a website)*  
-📱 Telegram: [@nuastra_team](https://t.me/nuastra_team) *(optional)*
-
----
-
-## 📜 License
-
-This repository is licensed under the [MIT License](LICENSE).
+📩 Contact us: [nuastra.strudio@gmail.com](mailto:nuastra.studio@gmail.com)
+📱 Telegram: [@nuastra_team](https://t.me/nuastra_team)
 
 ---
 
