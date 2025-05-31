@@ -21,22 +21,12 @@ We specialize in:
 
 ---
 
-## 📂 Projects
-
-Some of our recent work:
-
-- **AstraPay** — Multi-platform fintech application
-- **Nova LMS** — Adaptive e-learning platform
-- **Orion CMS** — Custom CMS for a media platform
-
----
-
 ## 🤝 We're open for collaboration
 
 Looking for a technical partner or an extra boost to your team? We're here to help!
 
-📩 Contact us: [nuastra.strudio@gmail.com](mailto:nuastra.studio@gmail.com)
-📱 Telegram: [@nuastra_team](https://t.me/nuastra_team)
+- 📩 Contact us: [nuastra.strudio@gmail.com](mailto:nuastra.studio@gmail.com)
+- 📱 Telegram: [@nuastra_team](https://t.me/nuastra_team)
 
 ---
 
